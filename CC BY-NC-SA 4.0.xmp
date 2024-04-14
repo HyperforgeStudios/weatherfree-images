@@ -21,8 +21,8 @@
             <cc:attributionName>Nathan Thomas Matthews</cc:attributionName>
             <dc:title>
                 <rdf:Alt>
-                  <rdf:li xml:lang='x-default'>Weatherfree-image</rdf:li>
-                  <rdf:li xml:lang='en-US'>Weatherfree-image</rdf:li>
+                  <rdf:li xml:lang='x-default'>Weatherfree-images</rdf:li>
+                  <rdf:li xml:lang='en-US'>Weatherfree-images</rdf:li>
                 </rdf:Alt>
             </dc:title>
         </rdf:Description>
