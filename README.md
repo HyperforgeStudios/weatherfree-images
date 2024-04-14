@@ -5,3 +5,5 @@ One of the best ways to host your images for free is by using GitHub. GitHub is 
 Another great way to host your images for free is by using Imgur. Imgur is a popular image hosting platform that allows you to upload and share your images with others. It is free to use, and you can upload as many images as you want. Imgur also offers great features like image editing, album creation, and social media sharing. With Imgur, you can easily share your images with the world and create a stunning online gallery.
 
 In conclusion, image hosting is essential for anyone who wants to share images online. Whether you are a blogger, website owner, or casual user, there are many free image hosting options available to you. By using GitHub or Imgur, you can easily host your images for free and share them with others. With these tools at your disposal, you can create a stunning online gallery and showcase your images to the world.
+
+Weatherfree-images © 2024 by Nathan Thomas Matthews is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
